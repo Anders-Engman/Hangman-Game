@@ -1,0 +1,35 @@
+#centerConsole {
+    background-color: tan;
+    margin-top: 0px;
+    border: 2px white;
+    border-style: dashed none dashed dashed;
+    min-height: 100%;
+}
+
+#centerConsole2 {
+    background-color: tan;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 2px white;
+    border-style: dashed dashed dashed dashed;
+    min-height: 100%;
+}
+
+.jumbotronAdjust {
+    background-color: tan;
+    margin: auto;
+}
+
+.sidebarCol {
+    background-color: black;
+}
+
+#titleFont {
+    font-family: 'Eagle Lake', cursive !important;
+}
+
+body {
+    height: 100%;
+    margin-bottom: 0px;
+}
